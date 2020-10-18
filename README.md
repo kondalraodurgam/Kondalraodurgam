@@ -6,12 +6,5 @@ build applications and strive to explore and learn new technical skills.
 
 [![KondalDurgam's github stats ](https://github-readme-stats.vercel.app/api?username=kondalraodurgam&theme=merko&show_icons=true)](https://github.com/kondalraodurgam?tab=stars)
 
-• I develop web applications using AngularJS, ReactJS, VueJS, JavaScript, HTML5, CSS3.
 
-• Have a good knowledge in Algorithms and Data Structures.
-
-• Good at problem solving and analytical skills.
-
-• Hands on experience ES6, Single Page Applications (SPA) by using AngularJS.
-
-• Good in Industrial experience in Agile Methodologies.
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kondalraodurgam&langs_count=8)](https://github.com/kondalraodurgam/github-readme-stats)
