@@ -8,3 +8,7 @@ build applications and strive to explore and learn new technical skills.
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kondalraodurgam&langs_count=8)](https://github.com/kondalraodurgam/github-readme-stats)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kondalraodurgam&repo=github-readme-stats)](https://github.com/kondalraodurgam/LeetCode-Solutions)
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kondalraodurgam&repo=LeetCode-Solutions)](https://github.com/anuraghazra/github-readme-stats)
