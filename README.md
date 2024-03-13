@@ -21,7 +21,7 @@ build applications and strive to explore and learn new technical skills.
 • Good debugging skills.<br/>
 
 **Skills:**<br/>
-✔ Algorithms, Data Structures and Problem solving<br/>
+✔ Algorithms, Data Structures and Problem-solving <br/>
 ✔ Javascript,  ES6, jQuery<br/>
 ✔ ReactJS<br/>
 ✔ AngularJS<br/>
@@ -35,3 +35,5 @@ build applications and strive to explore and learn new technical skills.
 ✔ Bootstrap4<br/>
 ✔ AWS<br/>
 ✔GraphQL<br/>
+
+![Meta Front-End Developer_page-0001](https://github.com/kondalraodurgam/Kondalraodurgam/assets/20201281/6e00b2bb-40a8-42a2-b540-beeb9afe3959)
