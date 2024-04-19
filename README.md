@@ -6,7 +6,7 @@ build applications and strive to explore and learn new technical skills.
 
 
 • Overall 6+ years  of experience in the Development of web<br/>
-  applications using ReactJS,AngularJS,JavaScript, HTML5, CSS3, Sass, Bootstrap4<br/>
+  applications using ReactJS,AngularJS,JavaScript, HTML5, CSS3, Sass,Bootstrap4<br/>
 • Hands-on experience with ES6, Single page applications (SPA), AngularJS.<br/>
 • Have good hands-on experience with JavaScript.Including Object Oriented Programming<br/>
 • Have good knowledge of Algorithms and Data Structures<br/>
