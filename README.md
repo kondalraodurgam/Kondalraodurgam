@@ -1,5 +1,6 @@
-**<h1>Hey! 👋 I'm KondalDurgam [(LinkedIN)](https://www.linkedin.com/in/kondal-durgam-028352166/)</h1>** 
+**<h1>Hey! 👋 I'm KondalDurgam [(LinkedIN)](https://www.linkedin.com/in/kondal-durgam-028352166/) and [(LeetCode)](https://leetcode.com/u/KondalDurgam/) </h1>**  
 
-I am a User Interface UI Developer, having 6+ years of experience in front-end development.
-I am self-motivated, and an energetic team player but can also work independently. I love to
-build applications and strive to explore and learn new technical skills.
+👀 I love to build applications and strive to explore and learn new technical skills.<br>
+👀 Have a good knowledge of Algorithms and Data Structures. <br>
+💞️ I’m looking to collaborate on Javascript and React.<br>
+📫 How to reach me kondaldurgam733@gmail.com, +919700360165
